@@ -3580,6 +3580,24 @@
         "No jQuery",
         "Bootstrap"
       ]
+    },
+    {
+      "name": "ng-dashboard",
+      "thumb": "ng-dashboard/thumb.png",
+      "desc": "Build dashboards with AngularJs without writing any code.",
+      "url": "http://furti.github.io/ng-dashboard/",
+      "info": "https://github.com/furti/ng-dashboard",
+      "src": "https://github.com/furti/ng-dashboard",
+      "submitter": "furti",
+      "submissionDate": "2014-09-17",
+      "tags": [
+        "Production",
+        "Framework", "Dashboard", "Charts",
+        "d3.js", "dc.js", "crossfilter",
+        "No jQuery",
+        "Open Source",
+        "Tests Included"
+      ]
     }
 
   ]
