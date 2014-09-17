@@ -3584,7 +3584,7 @@
     {
       "name": "ng-dashboard",
       "thumb": "ng-dashboard/thumb.png",
-      "desc": "Build dashboards with AngularJs without writing any code.",
+      "desc": "Build dashboards with AngularJs writing almost no code.",
       "url": "http://furti.github.io/ng-dashboard/",
       "info": "https://github.com/furti/ng-dashboard",
       "src": "https://github.com/furti/ng-dashboard",
